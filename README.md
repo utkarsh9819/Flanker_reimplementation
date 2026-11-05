@@ -1,7 +1,5 @@
 # Arrow Flanker Task (Psychtoolbox)
 
-**Code sample prepared for System 3 Pre-Doctoral Fellowship application**  
-Centre for Social and Behaviour Change, Ashoka University
 
 ---
 
