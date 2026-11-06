@@ -11,7 +11,6 @@
 % OUTPUT: A flag representing which key was pressed (flag) and the time 
 % when the key was pressed (key_time)
 
-% Sumitash, 18-Oct-2012
 
 %% 
 
