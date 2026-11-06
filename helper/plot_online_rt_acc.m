@@ -3,7 +3,7 @@ function plot_online_rt_acc(trialStruct,sub_info,windowDim,windowPntr)
 % plot_online_rt_acc(Flanker_task_infos, irb_information, screenDim, screenPointer) 
 % calculates the RT and accuracy in the flanker task and displays it.
 
-% Concocted by Sumitash, June 30, 2017 (MATLAB R2016b)
+
 
 % -----------------------------------------------------------------------
 
